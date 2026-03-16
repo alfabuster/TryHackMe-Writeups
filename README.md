@@ -26,17 +26,6 @@ thm-writeups/
 
 ---
 
-## 📋 Rooms
-
-| Room | Difficulty | Category | Key Topics | Writeup |
-|------|------------|----------|------------|---------|
-| *coming soon* | — | — | — | — |
-
-<!-- Example row:
-| Kenobi | 🟢 Easy | Offensive Pentesting | Samba, ProFTPd, SUID | [writeup](./kenobi/writeup.md) |
--->
-
----
 
 ## ✍️ Writeup Format
 
@@ -62,17 +51,6 @@ Every writeup follows a consistent methodology:
 | **Post-Exploitation** | LinPEAS, WinPEAS, GTFOBins, pspy |
 | **Cracking** | John the Ripper, Hashcat |
 | **General** | Python, CyberChef |
-
----
-
-## 🧠 Topics Covered
-
-- Web exploitation (SQLi, SSRF, XXE, LFI/RFI, command injection)
-- Linux & Windows privilege escalation
-- Network enumeration and service fingerprinting
-- Cryptography and steganography challenges
-- OSINT and forensics
-- CVE research and exploit adaptation
 
 ---
 
