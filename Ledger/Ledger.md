@@ -31,6 +31,9 @@ Nmap → SMB Null Auth → LDAP Password Leak → RDP as SUSANNA_MCKNIGHT (Flag 
 | NT hash extraction from PFX | [Credential Access](https://attack.mitre.org/tactics/TA0006/) | [OS Credential Dumping](https://attack.mitre.org/techniques/T1003/) | `T1003` |
 | Pass-the-Hash via psexec | [Lateral Movement](https://attack.mitre.org/tactics/TA0008/) | [Use Alternate Authentication Material: Pass the Hash](https://attack.mitre.org/techniques/T1550/002/) | `T1550.002` |
 | Domain Admin user creation | [Persistence](https://attack.mitre.org/tactics/TA0003/) | [Create Account: Domain Account](https://attack.mitre.org/techniques/T1136/002/) | `T1136.002` |
+<br>
+<img width="1344" height="816" alt="Ledger__THM" src="https://github.com/user-attachments/assets/6cba0555-7a72-4223-a469-f7540be90246" />
+<br>
 
 ## CVSS Reference
 
