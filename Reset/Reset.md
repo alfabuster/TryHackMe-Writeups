@@ -34,6 +34,7 @@ SMB Guest Share → Onboarding Password → RID Brute → Password Spray (LILY_O
 | S4U2self/S4U2proxy ticket forgery | [Credential Access](https://attack.mitre.org/tactics/TA0006/) | [Steal or Forge Kerberos Tickets](https://attack.mitre.org/techniques/T1558/) | `T1558` |
 | Pass-the-Ticket via wmiexec | [Lateral Movement](https://attack.mitre.org/tactics/TA0008/) | [Use Alternate Authentication Material: Pass the Ticket](https://attack.mitre.org/techniques/T1550/003/) | `T1550.003` |
 
+<img width="1728" height="2304" alt="Reset_THM" src="https://github.com/user-attachments/assets/8f7c184d-6a39-4bb3-bd4c-41c5c617fb2d" />
 
 ## Reconnaissance — `T1046` `T1135`
 
